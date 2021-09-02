@@ -11,7 +11,8 @@
 	font-size: 30px;
 	text-align: center;
 	text-transform: uppercase;
-	color: #616161;
+	color: #4d79f3;
+    font-weight: 700;
 }
 
 .add-post__body {
@@ -47,9 +48,10 @@
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+    font-weight: 700;
 }
 .add-post-select-author span {
-	color: #212121;
+	color: #3b74ee;
 	font-family: 'Roboto', sans-serif;
 	text-transform: uppercase;
 	font-size: 20px;

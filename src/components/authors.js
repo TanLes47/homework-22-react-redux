@@ -7,8 +7,8 @@ const avatar3 =
 
 export const authors = [
   {
-    name: 'Manchester United',
-    nickname: '@ManUtd',
+    name: 'markfriendler',
+    nickname: '@markfriendler',
     avatar: avatar3,
   },
   {

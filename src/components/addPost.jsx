@@ -7,13 +7,13 @@ import { authors } from './authors';
 function AddPost() {
   const dispatch = useDispatch();
 
-  const defaultText = 'Welcome to home, Cristiano';
+  const defaultText = 'Welcome to the family red #ModelY @teslaownersSV';
   const defaultImg =
-    'https://www.downthewings.com/wp-content/uploads/2021/05/60992abb2e686.jpeg';
-  const defaultAuthor = 'Manchester United';
+    'https://pbs.twimg.com/media/E-NN9jtVkAIWmv2?format=jpg&name=large';
+  const defaultAuthor = 'markfriendler';
   const defaultAvatar =
     'https://upload.wikimedia.org/wikipedia/sco/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png';
-  const defaultNick = '@ManUtd';
+  const defaultNick = '@markfriendler';
 
   const [textPost, setTextPost] = useState(defaultText);
   const [postImg, setPostImg] = useState(defaultImg);

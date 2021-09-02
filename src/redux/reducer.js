@@ -6,9 +6,9 @@ const postImg1 =
   'https://specials-images.forbesimg.com/imageserve/5e63b3c8e1e617000759130e/960x0.jpg?fit=scale';
 
 const avatar2 =
-  'https://www.dynamomania.com/images/store/galleries/0122/4627/post581948_b04d3_content.jpg';
+  'https://pbs.twimg.com/profile_images/1065602761201463296/GxH3TeKR_400x400.jpg';
 const postImg2 =
-  'https://pbs.twimg.com/media/E7s-7fPXIAA5Vvu?format=jpg&name=large';
+  'https://pbs.twimg.com/media/E7xxQMZWQAQUPz1?format=jpg&name=small';
 
 const initialState = {
   posts: [
@@ -23,13 +23,13 @@ const initialState = {
     },
     {
       id: 1,
-      name: 'Andriy Shevchenko',
+      name: 'EspresoTV',
       avatar: avatar2,
-      nickname: '@jksheva7',
+      nickname: '@EspresoTV',
       content:
-        'Today, my contract with the Ukrainian Football Association came to the end. I spent five years with the National team. It was hard work that proved that we are capable of playing modern football. I am grateful…',
+        'Фестиваль Ідей 2021 оголосив програму.',
       image: postImg2,
-      date: 'Aug 1',
+      date: '1:04 PM · Aug 2, 2021·Espreso RSS Tweet',
     },
   ],
 };

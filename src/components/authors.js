@@ -3,7 +3,7 @@ const avatar1 =
 const avatar2 =
   'https://pbs.twimg.com/media/E7xxQMZWQAQUPz1?format=jpg&name=small';
 const avatar3 =
-  'https://upload.wikimedia.org/wikipedia/sco/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png';
+  'https://pbs.twimg.com/profile_images/1010049259234680833/eMCSE0MU_400x400.jpg';
 
 export const authors = [
   {

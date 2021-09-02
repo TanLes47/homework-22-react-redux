@@ -12,7 +12,7 @@ function AddPost() {
     'https://pbs.twimg.com/media/E-NN9jtVkAIWmv2?format=jpg&name=large';
   const defaultAuthor = 'markfriendler';
   const defaultAvatar =
-    'https://upload.wikimedia.org/wikipedia/sco/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png';
+    'https://twitter.com/markfriedler/photo';
   const defaultNick = '@markfriendler';
 
   const [textPost, setTextPost] = useState(defaultText);

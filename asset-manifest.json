@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/homework-22-react-redux/static/css/main.410cd74d.chunk.css",
-    "main.js": "/homework-22-react-redux/static/js/main.2e070fee.chunk.js",
-    "main.js.map": "/homework-22-react-redux/static/js/main.2e070fee.chunk.js.map",
-    "runtime-main.js": "/homework-22-react-redux/static/js/runtime-main.8aaa32ba.js",
-    "runtime-main.js.map": "/homework-22-react-redux/static/js/runtime-main.8aaa32ba.js.map",
-    "static/js/2.98274645.chunk.js": "/homework-22-react-redux/static/js/2.98274645.chunk.js",
-    "static/js/2.98274645.chunk.js.map": "/homework-22-react-redux/static/js/2.98274645.chunk.js.map",
-    "static/js/3.f790223c.chunk.js": "/homework-22-react-redux/static/js/3.f790223c.chunk.js",
-    "static/js/3.f790223c.chunk.js.map": "/homework-22-react-redux/static/js/3.f790223c.chunk.js.map",
+    "main.css": "/homework-22-react-redux/static/css/main.c6a6d017.chunk.css",
+    "main.js": "/homework-22-react-redux/static/js/main.60960231.chunk.js",
+    "main.js.map": "/homework-22-react-redux/static/js/main.60960231.chunk.js.map",
+    "runtime-main.js": "/homework-22-react-redux/static/js/runtime-main.465de99f.js",
+    "runtime-main.js.map": "/homework-22-react-redux/static/js/runtime-main.465de99f.js.map",
+    "static/js/2.f713fa05.chunk.js": "/homework-22-react-redux/static/js/2.f713fa05.chunk.js",
+    "static/js/2.f713fa05.chunk.js.map": "/homework-22-react-redux/static/js/2.f713fa05.chunk.js.map",
+    "static/js/3.690541fd.chunk.js": "/homework-22-react-redux/static/js/3.690541fd.chunk.js",
+    "static/js/3.690541fd.chunk.js.map": "/homework-22-react-redux/static/js/3.690541fd.chunk.js.map",
     "index.html": "/homework-22-react-redux/index.html",
-    "static/css/main.410cd74d.chunk.css.map": "/homework-22-react-redux/static/css/main.410cd74d.chunk.css.map",
-    "static/js/2.98274645.chunk.js.LICENSE.txt": "/homework-22-react-redux/static/js/2.98274645.chunk.js.LICENSE.txt"
+    "static/css/main.c6a6d017.chunk.css.map": "/homework-22-react-redux/static/css/main.c6a6d017.chunk.css.map",
+    "static/js/2.f713fa05.chunk.js.LICENSE.txt": "/homework-22-react-redux/static/js/2.f713fa05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8aaa32ba.js",
-    "static/js/2.98274645.chunk.js",
-    "static/css/main.410cd74d.chunk.css",
-    "static/js/main.2e070fee.chunk.js"
+    "static/js/runtime-main.465de99f.js",
+    "static/js/2.f713fa05.chunk.js",
+    "static/css/main.c6a6d017.chunk.css",
+    "static/js/main.60960231.chunk.js"
   ]
 }
